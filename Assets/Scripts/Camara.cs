@@ -32,7 +32,7 @@ public class Camara : MonoBehaviour
         RotacionVertical -= ValorY;
 
         //Limita en 80 grados
-        RotacionVertical = math.clamp(RotacionVertical, -80, 80);
+        RotacionVertical = Mathf.Clamp(RotacionVertical, -80f, 80f);
 
 
         //Hace la rotaion vertical fluida
@@ -42,7 +42,7 @@ public class Camara : MonoBehaviour
         //Hace la rotacion horizontal
         if (Player != null)
         {
-            Player.Rotate(Vector3.up * ValorX);
+            Player.Rotate(Vector3.up * ValorX, Space.World);
         }
         else
         {
