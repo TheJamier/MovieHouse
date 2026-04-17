@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 38f6d65bd8d874643b18b8f4fe105070
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Tubos: {instanceID: 0}
+  - Motor: {instanceID: 0}
+  - Gancho: {instanceID: 0}
+  - animatorClaw: {instanceID: 0}
+  - AlturaGancho: {instanceID: 0}
+  - limitadorLeft: {instanceID: 0}
+  - limitadorRight: {instanceID: 0}
+  - limitadorFront: {instanceID: 0}
+  - limitadorBack: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
