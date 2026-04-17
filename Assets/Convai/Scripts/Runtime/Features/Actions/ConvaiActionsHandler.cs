@@ -8,6 +8,7 @@ using Service;
 using UnityEngine;
 using UnityEngine.AI;
 using UnityEngine.Serialization;
+using UnityEngine.Video;
 
 namespace Convai.Scripts.Runtime.Features
 {
@@ -778,6 +779,34 @@ namespace Convai.Scripts.Runtime.Features
             _currentNPC.GetComponent<Animator>().CrossFade(Animator.StringToHash("Dance"), 1);
 
             ActionEnded?.Invoke("Jump", _currentNPC.gameObject);
+        }
+
+        private IEnumerator PlayVideo(GameObject target) {
+        ActionStarted?.Invoke("PlayVideo", target);
+
+        if (target == null)
+        {
+            Debug.Log("Target video is null");
+            yield break;
+        }
+
+        VideoPlayer vp = target.GetComponent<VideoPlayer>();
+
+        if (vp == null)
+        {
+            Debug.Log("No VideoPlayer found");
+            yield break;
+        }
+
+        vp.Play();
+
+        Debug.Log("Playing video...");
+
+        // Espera a que termine
+        while (vp.isPlaying)
+            yield return null;
+
+        ActionEnded?.Invoke("PlayVideo", target);
         }
 
         // STEP 3: Add the function for your action here.

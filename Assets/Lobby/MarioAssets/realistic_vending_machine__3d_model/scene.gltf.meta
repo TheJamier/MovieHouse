@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: 74078d3ede0a22649927689b55b35d41
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\scene.bin
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\scene.bin
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1002_baseColor.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1002_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1002_metallicRoughness.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1002_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1002_emissive.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1002_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1002_normal.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1002_normal.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1003_baseColor.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1003_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1003_metallicRoughness.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1003_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1003_emissive.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1003_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1003_normal.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1003_normal.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1004_baseColor.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1004_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1004_metallicRoughness.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1004_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1004_emissive.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1004_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1004_normal.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1004_normal.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1043_baseColor.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1043_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1043_metallicRoughness.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1043_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1043_emissive.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1043_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1043_normal.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1043_normal.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1021_baseColor.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1021_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1021_metallicRoughness.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1021_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1021_emissive.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1021_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1021_normal.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1021_normal.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1005_baseColor.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1005_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1005_metallicRoughness.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1005_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1005_emissive.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1005_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1005_normal.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1005_normal.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1044_baseColor.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1044_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1044_metallicRoughness.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1044_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1044_emissive.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1044_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1044_normal.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1044_normal.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1033_baseColor.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1033_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1033_metallicRoughness.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1033_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1033_emissive.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1033_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1033_normal.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1033_normal.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\screen_1033_baseColor.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\screen_1033_baseColor.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\screen_1033_metallicRoughness.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\screen_1033_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\screen_1033_emissive.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\screen_1033_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\screen_1033_normal.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\screen_1033_normal.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1015_baseColor.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1015_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1015_metallicRoughness.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1015_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1015_emissive.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1015_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1015_normal.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1015_normal.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\glass_1045_baseColor.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\glass_1045_baseColor.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\glass_1045_metallicRoughness.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\glass_1045_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\glass_1045_emissive.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\glass_1045_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\glass_1045_normal.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\glass_1045_normal.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1032_baseColor.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1032_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1032_metallicRoughness.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1032_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1032_emissive.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1032_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1032_normal.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1032_normal.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1041_baseColor.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1041_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1041_metallicRoughness.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1041_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1041_emissive.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1041_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1041_normal.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1041_normal.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1031_baseColor.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1031_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1031_metallicRoughness.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1031_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1031_emissive.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1031_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1031_normal.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1031_normal.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1042_baseColor.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1042_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1042_metallicRoughness.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1042_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1042_emissive.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1042_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1042_normal.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1042_normal.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1013_baseColor.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1013_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1013_metallicRoughness.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1013_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1013_emissive.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1013_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1013_normal.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1013_normal.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1012_baseColor.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1012_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1012_metallicRoughness.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1012_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1012_emissive.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1012_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1012_normal.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1012_normal.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1022_baseColor.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1022_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1022_metallicRoughness.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1022_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1022_emissive.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1022_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1022_normal.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1022_normal.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1011_baseColor.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1011_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1011_metallicRoughness.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1011_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1011_emissive.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1011_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1011_normal.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1011_normal.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1035_baseColor.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1035_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1035_metallicRoughness.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1035_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1035_emissive.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1035_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1035_normal.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1035_normal.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1025_baseColor.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1025_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1025_metallicRoughness.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1025_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1025_emissive.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1025_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1025_normal.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1025_normal.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1014_baseColor.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1014_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1014_metallicRoughness.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1014_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1014_emissive.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1014_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1014_normal.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1014_normal.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1024_baseColor.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1024_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1024_metallicRoughness.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1024_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1024_emissive.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1024_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1024_normal.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1024_normal.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1023_baseColor.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1023_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1023_metallicRoughness.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1023_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1023_emissive.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1023_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1023_normal.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1023_normal.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1034_baseColor.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1034_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1034_metallicRoughness.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1034_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1034_emissive.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1034_emissive.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1034_normal.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\body_1034_normal.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\chips_n_choco_1001_baseColor.jpeg
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\chips_n_choco_1001_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\chips_n_choco_1001_metallicRoughness.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\chips_n_choco_1001_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\chips_n_choco_1001_normal.png
+    assetPath: Assets\Lobby\MarioAssets\realistic_vending_machine__3d_model\textures\chips_n_choco_1001_normal.png
+  reportItems:
+  - type: 2
+    code: 20
+    messages:
+    - KHR_materials_emissive_strength

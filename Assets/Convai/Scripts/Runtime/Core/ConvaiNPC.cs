@@ -312,8 +312,36 @@ namespace Convai.Scripts.Runtime.Core
 
         private void HandleAudioTranscriptAvailable(string transcript)
         {
-            if (isCharacterActive) _convaiChatUIHandler.SendCharacterText(characterName, transcript);
+            if (isCharacterActive)
+            {
+                _convaiChatUIHandler.SendCharacterText(characterName, transcript);
+
+                Debug.Log("NPC dijo: " + transcript);
+
+                string t = transcript.ToLower();
+
+                if (t.StartsWith("play"))
+                {
+                    string movieName = t.Contains(":")
+                        ? t.Split(':')[1].Trim()
+                        : t.Replace("play", "").Trim();
+
+                    MoviePlayer moviePlayer = FindObjectOfType<MoviePlayer>();
+
+                    if (moviePlayer == null)
+                    {
+                        Debug.LogError("MoviePlayer no encontrado en la escena");
+                        return;
+                    }
+
+                    moviePlayer.PlayMovie(movieName);
+
+                    Debug.Log("Convai envió película: " + movieName);
+                }
+            }
         }
+
+
 
         /// <summary>
         ///     Handles the character's talking animation based on whether the character is currently talking.
@@ -438,6 +466,8 @@ namespace Convai.Scripts.Runtime.Core
                     {
                         GetResponseResponse.Types.AudioResponse audioResponse = serverResponse.AudioResponse;
                         string textDataString = audioResponse.TextData;
+                        FindObjectOfType<ConvaiMovieInterceptor>()
+                            ?.HandleText(textDataString);
                         _currentSampleRate = audioResponse.AudioConfig?.SampleRateHertz > 0
                             ? audioResponse.AudioConfig.SampleRateHertz
                             : 44100;

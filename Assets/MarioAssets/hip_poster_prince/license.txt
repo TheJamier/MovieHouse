@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hip Poster PRINCE
+* source:	https://sketchfab.com/3d-models/hip-poster-prince-256d067e442a4e639fa3b5dce41fa146
+* author:	POSTOBOY (https://sketchfab.com/johnthyque)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hip Poster PRINCE" (https://sketchfab.com/3d-models/hip-poster-prince-256d067e442a4e639fa3b5dce41fa146) by POSTOBOY (https://sketchfab.com/johnthyque) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
