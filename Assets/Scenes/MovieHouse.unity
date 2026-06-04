@@ -68712,7 +68712,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Salir
+  m_text: "Salir al men\xFA principal"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -70008,7 +70008,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1400454103}
         m_TargetAssemblyTypeName: PauseMenu, Assembly-CSharp
-        m_MethodName: Salir
+        m_MethodName: SalirAlMenu
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -79607,7 +79607,7 @@ GameObject:
   - component: {fileID: 1813542013}
   - component: {fileID: 1813542012}
   m_Layer: 5
-  m_Name: Text (TMP) (1)
+  m_Name: Text (TMP) (1)Convai
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -85803,7 +85803,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 24f9a5a7be88a2c44aaf130254576dd4, type: 2}
+  - {fileID: 2100000, guid: 469fa3cf05e6a504db0c3ecc38a4f848, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -90234,7 +90234,7 @@ GameObject:
   - component: {fileID: 2129123508}
   - component: {fileID: 2129123507}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: Text (TMP)Convai
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
