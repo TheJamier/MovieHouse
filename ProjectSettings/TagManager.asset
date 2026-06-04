@@ -5,14 +5,17 @@ TagManager:
   serializedVersion: 3
   tags:
   - Anchor
+  - Character
+  - Objeto Interactivo
+  - HoldPoint
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Raycast Detect
   - Water
   - UI
-  - 
+  - Object Interact
   - 
   - 
   - 
