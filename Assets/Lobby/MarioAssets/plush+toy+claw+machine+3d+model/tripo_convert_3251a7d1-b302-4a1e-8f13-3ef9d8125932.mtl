@@ -1,0 +1,16 @@
+# Blender 5.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl tripo_mat_3251a7d1-b302-4a1e-8f13-3ef9d8125932
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd plushtoyclawmachine3dmodel_basecolor.JPEG
+map_Ns plushtoyclawmachine3dmodel_roughness.JPEG
+map_Pr plushtoyclawmachine3dmodel_roughness.JPEG
+map_refl plushtoyclawmachine3dmodel_metallic.JPEG
+map_Pm plushtoyclawmachine3dmodel_metallic.JPEG
+map_Bump -bm 1.000000 plushtoyclawmachine3dmodel_normal.JPEG

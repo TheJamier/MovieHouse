@@ -1,0 +1,16 @@
+# Blender 5.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl tripo_mat_e91dbf52-5166-4805-a8ba-4a3e3e5c5797
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd airhockeytable3dmodel_basecolor.JPEG
+map_Ns airhockeytable3dmodel_roughness.JPEG
+map_Pr airhockeytable3dmodel_roughness.JPEG
+map_refl airhockeytable3dmodel_metallic.JPEG
+map_Pm airhockeytable3dmodel_metallic.JPEG
+map_Bump -bm 1.000000 airhockeytable3dmodel_normal.JPEG
