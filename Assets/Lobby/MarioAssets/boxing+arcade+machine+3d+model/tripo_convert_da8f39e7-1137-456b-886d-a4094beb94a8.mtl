@@ -1,0 +1,16 @@
+# Blender 5.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl tripo_mat_da8f39e7-1137-456b-886d-a4094beb94a8
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd boxingarcademachine3dmodel_basecolor.JPEG
+map_Ns boxingarcademachine3dmodel_roughness.JPEG
+map_Pr boxingarcademachine3dmodel_roughness.JPEG
+map_refl boxingarcademachine3dmodel_metallic.JPEG
+map_Pm boxingarcademachine3dmodel_metallic.JPEG
+map_Bump -bm 1.000000 boxingarcademachine3dmodel_normal.JPEG
