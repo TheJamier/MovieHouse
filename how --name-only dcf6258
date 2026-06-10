@@ -1,0 +1,77 @@
+[33mcommit 17f375a05ce1620d56ffb55567173b0ac2bda188[m
+Author: TheJamier <saultpv3006@gmail.com>
+Date:   Sun Jun 7 22:57:38 2026 -0600
+
+    añadir masassets al loby y mejorar el menu
+
+Assets/Lobby/MarioAssets/air+hockey+table+3d+model.meta
+Assets/Lobby/MarioAssets/air+hockey+table+3d+model/airhockeytable3dmodel_basecolor.JPEG
+Assets/Lobby/MarioAssets/air+hockey+table+3d+model/airhockeytable3dmodel_basecolor.JPEG.meta
+Assets/Lobby/MarioAssets/air+hockey+table+3d+model/airhockeytable3dmodel_metallic.JPEG
+Assets/Lobby/MarioAssets/air+hockey+table+3d+model/airhockeytable3dmodel_metallic.JPEG.meta
+Assets/Lobby/MarioAssets/air+hockey+table+3d+model/airhockeytable3dmodel_normal.JPEG
+Assets/Lobby/MarioAssets/air+hockey+table+3d+model/airhockeytable3dmodel_normal.JPEG.meta
+Assets/Lobby/MarioAssets/air+hockey+table+3d+model/airhockeytable3dmodel_roughness.JPEG
+Assets/Lobby/MarioAssets/air+hockey+table+3d+model/airhockeytable3dmodel_roughness.JPEG.meta
+Assets/Lobby/MarioAssets/air+hockey+table+3d+model/tripo_convert_e91dbf52-5166-4805-a8ba-4a3e3e5c5797.mtl
+Assets/Lobby/MarioAssets/air+hockey+table+3d+model/tripo_convert_e91dbf52-5166-4805-a8ba-4a3e3e5c5797.mtl.meta
+Assets/Lobby/MarioAssets/air+hockey+table+3d+model/tripo_convert_e91dbf52-5166-4805-a8ba-4a3e3e5c5797.obj
+Assets/Lobby/MarioAssets/air+hockey+table+3d+model/tripo_convert_e91dbf52-5166-4805-a8ba-4a3e3e5c5797.obj.meta
+Assets/Lobby/MarioAssets/arcade+motorcycle+3d+model.meta
+Assets/Lobby/MarioAssets/arcade+motorcycle+3d+model/arcademotorcycle3dmodel_basecolor.JPEG
+Assets/Lobby/MarioAssets/arcade+motorcycle+3d+model/arcademotorcycle3dmodel_basecolor.JPEG.meta
+Assets/Lobby/MarioAssets/arcade+motorcycle+3d+model/arcademotorcycle3dmodel_metallic.JPEG
+Assets/Lobby/MarioAssets/arcade+motorcycle+3d+model/arcademotorcycle3dmodel_metallic.JPEG.meta
+Assets/Lobby/MarioAssets/arcade+motorcycle+3d+model/arcademotorcycle3dmodel_normal.JPEG
+Assets/Lobby/MarioAssets/arcade+motorcycle+3d+model/arcademotorcycle3dmodel_normal.JPEG.meta
+Assets/Lobby/MarioAssets/arcade+motorcycle+3d+model/arcademotorcycle3dmodel_roughness.JPEG
+Assets/Lobby/MarioAssets/arcade+motorcycle+3d+model/arcademotorcycle3dmodel_roughness.JPEG.meta
+Assets/Lobby/MarioAssets/arcade+motorcycle+3d+model/tripo_convert_f44b7566-dfde-4236-91ca-eabe3d651aa5.mtl
+Assets/Lobby/MarioAssets/arcade+motorcycle+3d+model/tripo_convert_f44b7566-dfde-4236-91ca-eabe3d651aa5.mtl.meta
+Assets/Lobby/MarioAssets/arcade+motorcycle+3d+model/tripo_convert_f44b7566-dfde-4236-91ca-eabe3d651aa5.obj
+Assets/Lobby/MarioAssets/arcade+motorcycle+3d+model/tripo_convert_f44b7566-dfde-4236-91ca-eabe3d651aa5.obj.meta
+Assets/Lobby/MarioAssets/boxing+arcade+machine+3d+model.meta
+Assets/Lobby/MarioAssets/boxing+arcade+machine+3d+model/boxingarcademachine3dmodel_basecolor.JPEG
+Assets/Lobby/MarioAssets/boxing+arcade+machine+3d+model/boxingarcademachine3dmodel_basecolor.JPEG.meta
+Assets/Lobby/MarioAssets/boxing+arcade+machine+3d+model/boxingarcademachine3dmodel_metallic.JPEG
+Assets/Lobby/MarioAssets/boxing+arcade+machine+3d+model/boxingarcademachine3dmodel_metallic.JPEG.meta
+Assets/Lobby/MarioAssets/boxing+arcade+machine+3d+model/boxingarcademachine3dmodel_normal.JPEG
+Assets/Lobby/MarioAssets/boxing+arcade+machine+3d+model/boxingarcademachine3dmodel_normal.JPEG.meta
+Assets/Lobby/MarioAssets/boxing+arcade+machine+3d+model/boxingarcademachine3dmodel_roughness.JPEG
+Assets/Lobby/MarioAssets/boxing+arcade+machine+3d+model/boxingarcademachine3dmodel_roughness.JPEG.meta
+Assets/Lobby/MarioAssets/boxing+arcade+machine+3d+model/tripo_convert_da8f39e7-1137-456b-886d-a4094beb94a8.mtl
+Assets/Lobby/MarioAssets/boxing+arcade+machine+3d+model/tripo_convert_da8f39e7-1137-456b-886d-a4094beb94a8.mtl.meta
+Assets/Lobby/MarioAssets/boxing+arcade+machine+3d+model/tripo_convert_da8f39e7-1137-456b-886d-a4094beb94a8.obj
+Assets/Lobby/MarioAssets/boxing+arcade+machine+3d+model/tripo_convert_da8f39e7-1137-456b-886d-a4094beb94a8.obj.meta
+Assets/Lobby/MarioAssets/high+table+with+stools+3d+model.meta
+Assets/Lobby/MarioAssets/high+table+with+stools+3d+model/hightablewithstools3dmodel_basecolor.JPEG
+Assets/Lobby/MarioAssets/high+table+with+stools+3d+model/hightablewithstools3dmodel_basecolor.JPEG.meta
+Assets/Lobby/MarioAssets/high+table+with+stools+3d+model/hightablewithstools3dmodel_metallic.JPEG
+Assets/Lobby/MarioAssets/high+table+with+stools+3d+model/hightablewithstools3dmodel_metallic.JPEG.meta
+Assets/Lobby/MarioAssets/high+table+with+stools+3d+model/hightablewithstools3dmodel_normal.JPEG
+Assets/Lobby/MarioAssets/high+table+with+stools+3d+model/hightablewithstools3dmodel_normal.JPEG.meta
+Assets/Lobby/MarioAssets/high+table+with+stools+3d+model/hightablewithstools3dmodel_roughness.JPEG
+Assets/Lobby/MarioAssets/high+table+with+stools+3d+model/hightablewithstools3dmodel_roughness.JPEG.meta
+Assets/Lobby/MarioAssets/high+table+with+stools+3d+model/tripo_convert_968d3990-df6d-45e3-b5c4-df24f1177336.mtl
+Assets/Lobby/MarioAssets/high+table+with+stools+3d+model/tripo_convert_968d3990-df6d-45e3-b5c4-df24f1177336.mtl.meta
+Assets/Lobby/MarioAssets/high+table+with+stools+3d+model/tripo_convert_968d3990-df6d-45e3-b5c4-df24f1177336.obj
+Assets/Lobby/MarioAssets/high+table+with+stools+3d+model/tripo_convert_968d3990-df6d-45e3-b5c4-df24f1177336.obj.meta
+Assets/Lobby/MarioAssets/plush+toy+claw+machine+3d+model.meta
+Assets/Lobby/MarioAssets/plush+toy+claw+machine+3d+model/plushtoyclawmachine3dmodel_basecolor.JPEG
+Assets/Lobby/MarioAssets/plush+toy+claw+machine+3d+model/plushtoyclawmachine3dmodel_basecolor.JPEG.meta
+Assets/Lobby/MarioAssets/plush+toy+claw+machine+3d+model/plushtoyclawmachine3dmodel_metallic.JPEG
+Assets/Lobby/MarioAssets/plush+toy+claw+machine+3d+model/plushtoyclawmachine3dmodel_metallic.JPEG.meta
+Assets/Lobby/MarioAssets/plush+toy+claw+machine+3d+model/plushtoyclawmachine3dmodel_normal.JPEG
+Assets/Lobby/MarioAssets/plush+toy+claw+machine+3d+model/plushtoyclawmachine3dmodel_normal.JPEG.meta
+Assets/Lobby/MarioAssets/plush+toy+claw+machine+3d+model/plushtoyclawmachine3dmodel_roughness.JPEG
+Assets/Lobby/MarioAssets/plush+toy+claw+machine+3d+model/plushtoyclawmachine3dmodel_roughness.JPEG.meta
+Assets/Lobby/MarioAssets/plush+toy+claw+machine+3d+model/tripo_convert_3251a7d1-b302-4a1e-8f13-3ef9d8125932.mtl
+Assets/Lobby/MarioAssets/plush+toy+claw+machine+3d+model/tripo_convert_3251a7d1-b302-4a1e-8f13-3ef9d8125932.mtl.meta
+Assets/Lobby/MarioAssets/plush+toy+claw+machine+3d+model/tripo_convert_3251a7d1-b302-4a1e-8f13-3ef9d8125932.obj
+Assets/Lobby/MarioAssets/plush+toy+claw+machine+3d+model/tripo_convert_3251a7d1-b302-4a1e-8f13-3ef9d8125932.obj.meta
+Assets/Scenes/MainMenu.unity
+Assets/Scenes/MovieHouse.unity
+Assets/Settings/Project Configuration/SampleScene.scenetemplate
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+Assets/_Recovery/0 (9).unity
+Assets/_Recovery/0 (9).unity.meta
