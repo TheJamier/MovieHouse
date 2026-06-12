@@ -4,35 +4,27 @@ public class CinemaVending : MonoBehaviour
 {
     public GameObject prefabPalomitas;
     public GameObject prefabRefresco;
-
-    // Necesitamos una referencia al script del jugador para saber si ya tiene algo
+    
     private PlayerInteractor playerInteractor;
 
     void Start()
     {
-        // Buscamos al jugador por su tag (asegúrate de que tu Player tenga el tag "Player")
-        playerInteractor = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerInteractor>();
+        GameObject playerObj = GameObject.FindGameObjectWithTag("Player");
+        if (playerObj != null)
+            playerInteractor = playerObj.GetComponent<PlayerInteractor>();
     }
 
+    // Conectado al OnClick() del botón del Canvas de la taquilla
     public void ComprarItem(string tipo)
     {
-        // 1. Verificamos si el jugador ya tiene algo en la mano
-        if (playerInteractor.holdPoint.childCount > 0)
+        if (playerInteractor == null) return;
+
+        GameObject prefabAInstanciar = (tipo == "palomitas") ? prefabPalomitas : prefabRefresco;
+
+        if (prefabAInstanciar != null)
         {
-            Debug.Log("Ya tienes las manos ocupadas");
-            return;
-        }
-
-        GameObject objetoAInstanciar = (tipo == "palomitas") ? prefabPalomitas : prefabRefresco;
-
-        // 2. Creamos el objeto directamente en la posición del HoldPoint
-        GameObject nuevoItem = Instantiate(objetoAInstanciar, playerInteractor.holdPoint.position, playerInteractor.holdPoint.rotation);
-
-        // 3. Le decimos al script del objeto que se autoejecute como si lo hubieran recogido
-        CineItem scriptItem = nuevoItem.GetComponent<CineItem>();
-        if (scriptItem != null)
-        {
-            scriptItem.Interact(); // Esto activará el PickUp() y lo pegará a la mano
+            // Le manda el molde al Player para que haga la animación de "Grab" antes de que aparezca
+            playerInteractor.ComprarDesdeTaquilla(prefabAInstanciar);
         }
     }
 }

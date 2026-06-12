@@ -1,0 +1,11 @@
+Model Information:
+* title:	first-person arms
+* source:	https://sketchfab.com/3d-models/first-person-arms-b6a8c3d0ebd54ffcab0255ff891812c5
+* author:	idrissi__adam (https://sketchfab.com/idrissi__adam)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "first-person arms" (https://sketchfab.com/3d-models/first-person-arms-b6a8c3d0ebd54ffcab0255ff891812c5) by idrissi__adam (https://sketchfab.com/idrissi__adam) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
